@@ -1,0 +1,4 @@
+git clone https://github.com/RobuxFunds/RobuxForYou.git
+git add your_script.py
+git commit -m "Add your_script.py"
+git push origin main
